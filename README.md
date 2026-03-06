@@ -1,3 +1,3 @@
 # test-demo
 This is my first git repository
-author - Nemaram Sirvi
+author - Nemaram Choudhary
